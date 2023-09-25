@@ -13,5 +13,5 @@ spec:
     - -c
     - 'curl -X POST -H "Content-type: application/json" \
        --data \'{"text":"Pod deletion job has completed in namespace your-namespace."}\' \
-       https://hooks.slack.com/services/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'
+      https://hooks.slack.com/services/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'
   restartPolicy: OnFailure
